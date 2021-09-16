@@ -1,2 +1,2 @@
 # .github
-Community health files for the @nuxtlabs organizatio
+Community health files for the @nuxtlabs organization
