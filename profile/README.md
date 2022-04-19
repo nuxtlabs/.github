@@ -5,9 +5,9 @@ We are a team of passionate developers working on solutions to make Web developm
 ## Solutions
 
 
-<a href="https://nuxtjs.org"><img height="50" alt="NuxtJS logo" src="https://user-images.githubusercontent.com/904724/133622714-eec77532-f9de-43b9-bb65-39b3aa33418e.png"></a>
+<a href="https://nuxtjs.org"><img height="50" alt="Nuxt logo" src="https://user-images.githubusercontent.com/904724/133622714-eec77532-f9de-43b9-bb65-39b3aa33418e.png"></a>
 
-> [NuxtJS](https://nuxtjs.org) is an intuitive Vue framework to create modern web applications.
+> [Nuxt](https://nuxtjs.org) is an intuitive Vue framework to create modern web applications.
 
 <a href="https://docus.com"><img height="50" alt="Docus logo" src="https://user-images.githubusercontent.com/904724/133621566-3809113b-e46c-4e00-b9f9-e7e82c98a192.png"></a>
 
