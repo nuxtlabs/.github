@@ -20,7 +20,7 @@ We are a team of passionate working on solutions to make Web development intuiti
 
 <a href="https://vuetelescope.com"><img height="30" alt="VueTelescope logo" src="https://user-images.githubusercontent.com/904724/133622661-d5c84612-9277-4483-80b5-f8ca4b3d49d6.png"></a>
 
-> [VueTelescope](https://vuetelescope.com) is a platform to discover websites made with [Vue.js](https://vuejs.org).
+> [VueTelescope](https://vuetelescope.com) is a platform and [browser extensions](https://github.com/nuxtlabs/vue-telescope-extensions) to discover websites made with [Vue.js](https://vuejs.org).
 
 ## Social
 
