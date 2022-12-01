@@ -5,9 +5,9 @@ We are a team of passionate working on solutions to make Web development intuiti
 ## Solutions
 
 
-<a href="https://nuxtjs.org"><img height="40" alt="Nuxt logo" src="https://user-images.githubusercontent.com/904724/133622714-eec77532-f9de-43b9-bb65-39b3aa33418e.png"></a>
+<a href="https://nuxt.com"><img height="40" alt="Nuxt logo" src="https://user-images.githubusercontent.com/904724/133622714-eec77532-f9de-43b9-bb65-39b3aa33418e.png"></a>
 
-> [Nuxt](https://nuxtjs.org) is web framework powered by Vue to create modern web applications.
+> [Nuxt](https://nuxt.com) is web framework powered by Vue to create modern web applications.
 
 <a href="https://volta.net"><img height="26" alt="Volta logo" src="https://user-images.githubusercontent.com/904724/189920810-72b12f0f-92af-47e9-a104-e7ab4ddd7f31.png"></a>
 
