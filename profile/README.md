@@ -11,7 +11,7 @@ We are a team of passionate working on solutions to make Web development intuiti
 
 <a href="https://volta.net"><img height="26" alt="Volta logo" src="https://user-images.githubusercontent.com/904724/189920810-72b12f0f-92af-47e9-a104-e7ab4ddd7f31.png"></a>
 
-> [Volta](https://volta.net) is platform to work faster with you team on GitHub repositories with a re-imagined Inbox and Kaban boards.
+> [Volta](https://volta.net) is platform to work in real-time with your team on open-source and private repositories, all in one place. Working on GitHub issues and notifications has never been that fun.
 
 
 <a href="https://docus.com"><img height="30" alt="Docus logo" src="https://user-images.githubusercontent.com/904724/133621566-3809113b-e46c-4e00-b9f9-e7e82c98a192.png"></a>
