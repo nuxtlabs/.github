@@ -1,5 +1,5 @@
-![logo-black](https://user-images.githubusercontent.com/4084277/212050243-721aa30f-a841-41f6-a1b0-0d5ce659b6ff.png#gh-light-mode-only)
-![logo-white](https://user-images.githubusercontent.com/4084277/212050254-4c6c4482-65ad-4cb1-9024-117a5fc476c9.png#gh-dark-mode-only)
+<a href="https://nuxtlabs.com">![logo-black](https://user-images.githubusercontent.com/4084277/212050243-721aa30f-a841-41f6-a1b0-0d5ce659b6ff.png#gh-light-mode-only)
+![logo-white](https://user-images.githubusercontent.com/4084277/212050254-4c6c4482-65ad-4cb1-9024-117a5fc476c9.png#gh-dark-mode-only)</a>
 
 # Open Source Software Editor
 
