@@ -53,7 +53,7 @@ The Platform and browser extensions to discover websites made with [Vue.js](http
 
 The documentation theme base on Nuxt 3.
 
-**More on [vuetelescope.com](https://vuetelescope.com)**
+**More on [docus.dev](https://docus.dev)**
 
 ## Stay in touch
 
