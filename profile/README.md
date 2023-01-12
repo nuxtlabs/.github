@@ -1,6 +1,11 @@
 <a href="https://nuxtlabs.com"><img height="40" alt="NuxtLabs logo" src="https://user-images.githubusercontent.com/904724/133620560-7dbe6063-a505-426b-9f9d-f77b6e45bc11.png"></a>
 
-We are a team of passionate working on solutions to make Web development intuitive.
+# Open Source Software Editor
+
+As passionate developers, we believe in the importance and power of Open Source.
+Innovation in technology belongs to open source authors that have changed the path of companies.
+
+More on [nuxtlabs.com](https::nuxtlabs.com)
 
 ## Solutions
 
