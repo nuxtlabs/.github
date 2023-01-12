@@ -17,6 +17,8 @@ The Open Source web framework for Vue developers and teams.
 
 More on [nuxt.com](https://nuxt.com) and [GitHub](https://github.com/nuxt)
 
+---
+
 <a href="https://volta.net"><img height="26" alt="Volta logo" src="https://user-images.githubusercontent.com/904724/189920810-72b12f0f-92af-47e9-a104-e7ab4ddd7f31.png"></a>
 
 > [Volta](https://volta.net) is platform to work in real-time with your team on open-source and private repositories, all in one place.
