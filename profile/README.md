@@ -6,14 +6,16 @@
 As passionate developers, we believe in the importance and power of Open Source.  
 Innovation in technology belongs to open source authors that have changed the path of companies.
 
-More on [nuxtlabs.com](https::nuxtlabs.com)
+More on [nuxtlabs.com](https://nuxtlabs.com)
 
 ## Solutions
 
+![logo-nuxt-black](https://user-images.githubusercontent.com/4084277/212057350-ec6ba46e-3293-4cea-bdca-d52bb1a546cc.png)
+![logo-nuxt-white](https://user-images.githubusercontent.com/4084277/212057307-37c41c69-3a1e-4b78-9955-39a2a0652ff3.png)
 
-<a href="https://nuxt.com"><img height="40" alt="Nuxt logo" src="https://user-images.githubusercontent.com/904724/133622714-eec77532-f9de-43b9-bb65-39b3aa33418e.png"></a>
+The Open Source web framework for Vue developers and teams.
 
-> [Nuxt](https://nuxt.com) is web framework powered by Vue to create modern web applications.
+More on [nuxt.com](https://nuxt.com) and [GitHub](https://github.com/nuxt)
 
 <a href="https://volta.net"><img height="26" alt="Volta logo" src="https://user-images.githubusercontent.com/904724/189920810-72b12f0f-92af-47e9-a104-e7ab4ddd7f31.png"></a>
 
