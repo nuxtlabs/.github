@@ -6,25 +6,25 @@
 As passionate developers, we believe in the importance and power of Open Source.  
 Innovation in technology belongs to open source authors that have changed the path of companies.
 
-More on [nuxtlabs.com](https://nuxtlabs.com)
+**More on [nuxtlabs.com](https://nuxtlabs.com)**
 
 ## Solutions
 
 ![logo-nuxt-black](https://user-images.githubusercontent.com/4084277/212057350-ec6ba46e-3293-4cea-bdca-d52bb1a546cc.png#gh-light-mode-only)
 ![logo-nuxt-white](https://user-images.githubusercontent.com/4084277/212057307-37c41c69-3a1e-4b78-9955-39a2a0652ff3.png#gh-dark-mode-only)
 
-**The Open Source web framework for Vue developers and teams.**
+The Open Source web framework for Vue developers and teams.
 
-More on [nuxt.com](https://nuxt.com) and [GitHub](https://github.com/nuxt)
+**More on [nuxt.com](https://nuxt.com) and [GitHub](https://github.com/nuxt)**
 
 ---
 
 ![logo-studio-black](https://user-images.githubusercontent.com/4084277/212058975-53783b58-ae5e-4ce6-af52-3bd7258c4a91.png#gh-light-mode-only)
 ![logo-studio-white](https://user-images.githubusercontent.com/4084277/212059006-b1df9b09-3da8-4c22-a262-fc7d65518990.png#gh-dark-mode-only)
 
-**The Git-based headless CMS for Vue developers and teams.**
+The Git-based headless CMS for Vue developers and teams.
 
-More on [nuxt.studio](https://nuxt.studio)
+**More on [nuxt.studio](https://nuxt.studio)**
 
 ---
 
@@ -32,9 +32,9 @@ More on [nuxt.studio](https://nuxt.studio)
 ![logo-volta-white](https://user-images.githubusercontent.com/4084277/212059297-0e3f77b3-faab-428b-941f-7f915f770931.png#gh-dark-mode-only)
 
 
-**The Platform for Open Source creators.**
+The Platform for Open Source creators.
 
-More on [volta.net](https://volta.net)
+**More on [volta.net](https://volta.net)**
 
 ---
 
