@@ -10,8 +10,8 @@ More on [nuxtlabs.com](https://nuxtlabs.com)
 
 ## Solutions
 
-![logo-nuxt-black](https://user-images.githubusercontent.com/4084277/212057350-ec6ba46e-3293-4cea-bdca-d52bb1a546cc.png#gh-light-mode-only)
-![logo-nuxt-white](https://user-images.githubusercontent.com/4084277/212057307-37c41c69-3a1e-4b78-9955-39a2a0652ff3.png#gh-dark-mode-only)
+<a href="https://nuxt.com">![logo-nuxt-black](https://user-images.githubusercontent.com/4084277/212057350-ec6ba46e-3293-4cea-bdca-d52bb1a546cc.png#gh-light-mode-only)
+![logo-nuxt-white](https://user-images.githubusercontent.com/4084277/212057307-37c41c69-3a1e-4b78-9955-39a2a0652ff3.png#gh-dark-mode-only)</a>
 
 The Open Source web framework for Vue developers and teams.
 
