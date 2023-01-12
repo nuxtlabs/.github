@@ -1,5 +1,5 @@
-<a href="https://nuxtlabs.com">![logo-black](https://user-images.githubusercontent.com/4084277/212050243-721aa30f-a841-41f6-a1b0-0d5ce659b6ff.png#gh-light-mode-only)
-![logo-white](https://user-images.githubusercontent.com/4084277/212050254-4c6c4482-65ad-4cb1-9024-117a5fc476c9.png#gh-dark-mode-only)</a>
+![logo-black](https://user-images.githubusercontent.com/4084277/212050243-721aa30f-a841-41f6-a1b0-0d5ce659b6ff.png#gh-light-mode-only)
+![logo-white](https://user-images.githubusercontent.com/4084277/212050254-4c6c4482-65ad-4cb1-9024-117a5fc476c9.png#gh-dark-mode-only)
 
 # Open Source Software Editor
 
@@ -10,8 +10,8 @@ More on [nuxtlabs.com](https://nuxtlabs.com)
 
 ## Solutions
 
-[![logo-nuxt-black](https://user-images.githubusercontent.com/4084277/212057350-ec6ba46e-3293-4cea-bdca-d52bb1a546cc.png#gh-light-mode-only)](https://nuxt.com)
-[![logo-nuxt-white](https://user-images.githubusercontent.com/4084277/212057307-37c41c69-3a1e-4b78-9955-39a2a0652ff3.png#gh-dark-mode-only)](https://nuxt.com)
+![logo-nuxt-black](https://user-images.githubusercontent.com/4084277/212057350-ec6ba46e-3293-4cea-bdca-d52bb1a546cc.png#gh-light-mode-only)
+![logo-nuxt-white](https://user-images.githubusercontent.com/4084277/212057307-37c41c69-3a1e-4b78-9955-39a2a0652ff3.png#gh-dark-mode-only)
 
 The Open Source web framework for Vue developers and teams.
 
