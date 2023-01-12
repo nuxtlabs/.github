@@ -2,7 +2,7 @@
 
 # Open Source Software Editor
 
-As passionate developers, we believe in the importance and power of Open Source.
+As passionate developers, we believe in the importance and power of Open Source.  
 Innovation in technology belongs to open source authors that have changed the path of companies.
 
 More on [nuxtlabs.com](https::nuxtlabs.com)
