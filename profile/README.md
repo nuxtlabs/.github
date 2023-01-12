@@ -3,7 +3,6 @@
 
 # Open Source Software Editor
 
-
 As passionate developers, we believe in the importance and power of Open Source.  
 Innovation in technology belongs to open source authors that have changed the path of companies.
 
@@ -29,7 +28,7 @@ More on [nuxtlabs.com](https::nuxtlabs.com)
 
 > [VueTelescope](https://vuetelescope.com) is a platform and [browser extensions](https://github.com/nuxtlabs/vue-telescope-extensions) to discover websites made with [Vue.js](https://vuejs.org).
 
-## Social
+## Stay in touch
 
-[Twitter](https://twitter.com/nuxtlabs) - [LinkedIn](https://www.linkedin.com/company/nuxt/)
+[Instagram](https://www.instagram.com/nuxtlabs) - [LinkedIn](https://www.linkedin.com/company/nuxtlabs) - [Twitter](https://twitter.com/nuxtlabs) - [Website](https://nuxtlabs.com) - [YouTube](https://www.youtube.com/@NuxtLabs)
 
