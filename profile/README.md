@@ -19,10 +19,24 @@ More on [nuxt.com](https://nuxt.com) and [GitHub](https://github.com/nuxt)
 
 ---
 
-<a href="https://volta.net"><img height="26" alt="Volta logo" src="https://user-images.githubusercontent.com/904724/189920810-72b12f0f-92af-47e9-a104-e7ab4ddd7f31.png"></a>
+![logo-studio-black](https://user-images.githubusercontent.com/4084277/212058975-53783b58-ae5e-4ce6-af52-3bd7258c4a91.png#gh-light-mode-only)
+![logo-studio-white](https://user-images.githubusercontent.com/4084277/212059006-b1df9b09-3da8-4c22-a262-fc7d65518990.png#gh-dark-mode-only)
 
-> [Volta](https://volta.net) is platform to work in real-time with your team on open-source and private repositories, all in one place.
+The Git-based headless CMS for Vue developers and teams.
 
+More on [nuxt.studio](https://nuxt.studio)
+
+---
+
+![logo-volta-black](https://user-images.githubusercontent.com/4084277/212059283-2ac103b1-5c68-4c3c-beb2-227e80bb91ae.png#gh-light-mode-only)
+![logo-volta-white](https://user-images.githubusercontent.com/4084277/212059297-0e3f77b3-faab-428b-941f-7f915f770931.png#gh-dark-mode-only)
+
+
+The Platform for Open Source creators.
+
+More on [volta.net](https://volta.net)
+
+---
 
 <a href="https://docus.com"><img height="30" alt="Docus logo" src="https://user-images.githubusercontent.com/904724/133621566-3809113b-e46c-4e00-b9f9-e7e82c98a192.png"></a>
 
