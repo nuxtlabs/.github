@@ -38,13 +38,22 @@ The Platform for Open Source creators.
 
 ---
 
-<a href="https://docus.com"><img height="30" alt="Docus logo" src="https://user-images.githubusercontent.com/904724/133621566-3809113b-e46c-4e00-b9f9-e7e82c98a192.png"></a>
+![logo-vt-black](https://user-images.githubusercontent.com/4084277/212063179-7aa098ac-98aa-47a5-aa24-c033b2f4ee93.png#gh-light-mode-only)
+![logo-vt-white](https://user-images.githubusercontent.com/4084277/212063200-2e25944a-c26a-48c1-8d22-40c522d063b0.png#gh-dark-mode-only)
 
-> [Docus](https://docus.dev) is a documentation theme based on [Nuxt 3](https://v3.nuxtjs.org)
+The Platform and browser extensions to discover websites made with [Vue.js](https://vuejs.org).
 
-<a href="https://vuetelescope.com"><img height="30" alt="VueTelescope logo" src="https://user-images.githubusercontent.com/904724/133622661-d5c84612-9277-4483-80b5-f8ca4b3d49d6.png"></a>
+**More on [vuetelescope.com](https://vuetelescope.com)**
 
-> [VueTelescope](https://vuetelescope.com) is a platform and [browser extensions](https://github.com/nuxtlabs/vue-telescope-extensions) to discover websites made with [Vue.js](https://vuejs.org).
+---
+
+![logo-docus-black](https://user-images.githubusercontent.com/4084277/212063411-4fcd2f2e-861f-49d6-8b42-a3cc8093e870.png#gh-light-mode-only)
+![logo-docus-white](https://user-images.githubusercontent.com/4084277/212063478-73791f47-31ae-4c87-9480-a63076ed98a8.png#gh-dark-mode-only)
+
+
+The documentation theme base on Nuxt 3.
+
+**More on [vuetelescope.com](https://vuetelescope.com)**
 
 ## Stay in touch
 
