@@ -1,6 +1,8 @@
-<a href="https://nuxtlabs.com"><img height="40" alt="NuxtLabs logo" src="https://user-images.githubusercontent.com/904724/133620560-7dbe6063-a505-426b-9f9d-f77b6e45bc11.png"></a>
+![logo-black](https://user-images.githubusercontent.com/4084277/212050243-721aa30f-a841-41f6-a1b0-0d5ce659b6ff.png#gh-light-mode-only)
+![logo-white](https://user-images.githubusercontent.com/4084277/212050254-4c6c4482-65ad-4cb1-9024-117a5fc476c9.png#gh-dark-mode-only)
 
 # Open Source Software Editor
+
 
 As passionate developers, we believe in the importance and power of Open Source.  
 Innovation in technology belongs to open source authors that have changed the path of companies.
