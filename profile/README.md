@@ -11,5 +11,5 @@
 <a href="https://nuxtlabs.com"><img src="https://img.shields.io/badge/NuxtLabs-18181B?&logo=nuxt.js&logoColor=FFFFFF" alt="NuxtLabs" /></a>
 <a href="https://volta.net"><img height="20" src="https://github-production-user-asset-6210df.s3.amazonaws.com/904724/238708676-e9250d2e-7eea-4139-bf69-958d30535c5b.svg" alt="Volta"></a>
 
-[Instagram](https://www.instagram.com/nuxtlabs) - [LinkedIn](https://www.linkedin.com/company/nuxtlabs) - [Twitter](https://twitter.com/nuxtlabs) - [Website](https://nuxtlabs.com) - [YouTube](https://www.youtube.com/@NuxtLabs)
+[LinkedIn](https://www.linkedin.com/company/nuxtlabs) - [Twitter](https://twitter.com/nuxtlabs) - [Website](https://nuxtlabs.com) - [YouTube](https://www.youtube.com/@NuxtLabs)
 
