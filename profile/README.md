@@ -11,7 +11,7 @@
 
 <p>
   <samp>
-    Follow our last updates on <a href="https://www.linkedin.com/company/nuxtlabs">LinkedIn</a> & <a href="https://x.com/nuxtlabs">X</a>.
+    Follow our last updates on <a href="https://www.linkedin.com/company/nuxtlabs">LinkedIn</a>, <a href="https://x.com/nuxtlabs">X</a> & <a href="https://bsky.app/profile/nuxtlabs.com">Bluesky</a>.
   </samp>
 </p>
 
